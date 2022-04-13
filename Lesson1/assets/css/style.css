@@ -1,0 +1,25 @@
+*{ /*Для всех элементов*/
+	margin: 0;	
+	padding: 0;	
+	box-sizing: border-box;	
+}
+.className {
+	background-color: green;
+
+	padding: 15px;
+}
+#idBlock{
+	background-color: orange;
+	padding: 15px;
+} /* Комментарий */
+
+a{
+	border: 1px solid orangered;
+	color: green;
+	padding: 3px;
+	background-color: orange;
+}
+h1{
+	color: cyan;
+	text-decoration: underline;	
+}
